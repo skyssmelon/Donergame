@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Döner Kebab Simulator</string>
+    <string name="title_activity_main">Döner Sim</string>
+    <string name="package_name">app.donerkebab.simulator</string>
+    <string name="custom_url_scheme">app.donerkebab.simulator</string>
+</resources>

@@ -1,0 +1,17 @@
+{
+  "name": "doner-kebab-simulator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Döner Kebab Simulator - 3D kebab shop game for Android",
+  "scripts": {
+    "sync": "cap sync android",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.3",
+    "@capacitor/core": "8.5.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.5.3"
+  }
+}

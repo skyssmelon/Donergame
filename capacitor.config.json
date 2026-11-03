@@ -1,0 +1,9 @@
+{
+  "appId": "app.donerkebab.simulator",
+  "appName": "Döner Kebab Simulator",
+  "webDir": "www",
+  "backgroundColor": "#120c09",
+  "android": {
+    "backgroundColor": "#120c09"
+  }
+}
